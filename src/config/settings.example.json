@@ -1,0 +1,18 @@
+{
+  "default_days_option": "30d",
+  "supported_chains": ["sol", "eth", "base", "tron", "blast"],
+  "proxy": {
+    "use_proxies": false,
+    "http": null,
+    "https": null
+  },
+  "analysis": {
+    "default_days_option": "30d",
+    "max_wallets_per_run": 500,
+    "request_timeout_seconds": 10
+  },
+  "paths": {
+    "wallets_input": "data/wallets.sample.json",
+    "output": "data/sample_output.json"
+  }
+}
