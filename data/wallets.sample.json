@@ -1,0 +1,21 @@
+[
+  {
+    "wallet": "61LtsXuMfC2SCUr7RYVRKBe3mmTTxUYeGt4HTN94CjKx",
+    "chain": "sol",
+    "daysOption": "30d"
+  },
+  {
+    "wallet": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+    "chain": "eth",
+    "daysOption": "7d"
+  },
+  {
+    "wallet": "0x1234567890abcdef1234567890abcdef12345678",
+    "chain": "base"
+  },
+  {
+    "wallet": "TYMwiRz7uWUvDdDhcW7UZ5E2osFVJeGb3u",
+    "chain": "tron",
+    "daysOption": "30d"
+  }
+]
